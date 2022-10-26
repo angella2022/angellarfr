@@ -2,7 +2,7 @@ jupyter-book
 matplotlib
 ghp-import
 numpy
-ipwidgets
+ipywidgets
 sympy
 pandas
 causalgraphicalmodels
